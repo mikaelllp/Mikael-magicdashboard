@@ -36,4 +36,4 @@ magicdashboard/
 └── README.md
 
 ## 🔗 Demo
-[Demo App](https://snack.expo.dev/@mikaelll/mikael---magic-dashboard)
+[App in snack](https://snack.expo.dev/@mikaelll/mikael---magic-dashboard)
