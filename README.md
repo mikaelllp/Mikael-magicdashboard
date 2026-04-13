@@ -2,7 +2,7 @@
 Tugas praktikum Minggu 4 - State & Events.
 
 ## 📸 Preview
-![Preview](https://www.image2url.com/r2/default/images/1776066081333-b0896dbd-8ddf-44f8-ad79-c8349a486c64.jpeg)
+![Preview](https://img.sanishtech.com/u/dda9bdf3ec718f1f5ae08662dbbd03b1.jpeg)
 
 ## 🛠️ Logic Implemented
 - **useState Hook:** 
